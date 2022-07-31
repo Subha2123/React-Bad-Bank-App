@@ -1,0 +1,141 @@
+/* bank.js **/
+
+img{
+  height:80px;
+  width:600px;
+}
+.bank{
+  background-color: rgb(245, 202, 150);
+  margin: 40px;
+  height:600px;
+  background-image: linear-gradient(rgb(78, 37, 226), rgb(218, 72, 174));
+}
+.head1{
+  color:whitesmoke
+}
+.para1{
+  color:aqua;
+  margin-top: 500px;
+  text-align: center;
+  font-size: 30px;
+}
+.label{
+  font-size: 30px;
+  margin-left: 190px;
+}
+
+.head4{
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  color: aqua;
+  font-size: 50px;
+}
+.img-responsive{
+  height: 300px;
+  width: 530px;
+  padding:10px;
+}
+footer{
+  background-color: rgb(248, 46, 157);
+  margin-top: 70px;
+}
+/* form  */
+
+.form{
+  background-color: rgb(179, 179, 248);
+  height: 600px;
+}
+.form label,input{
+  color:rgb(15, 1, 9);
+  font-size:40px;
+  height:60px;
+  width: 390px;
+  margin-top:50px;
+}
+.cdbtn{
+  background-color:greenyellow;
+  margin-left: 350px;
+  margin-top: 30px;
+  font-size: 30px;
+  border-radius: 30px;;
+  border-color: white;
+
+}
+/* account page image */
+.cdimg{
+  float:right;
+  height:550px;
+  margin:50px;
+}
+
+/* deposit page */
+.depimg{
+  height:500px;
+  float: left;
+}
+.depform{
+  background-color: rgb(78, 145, 245);
+  height: 500px;
+}
+.depform label,input{
+  margin: 100px;
+}
+.head2{
+  color:rgb(11, 11, 12);
+  text-shadow: 2px 2px #eee5e5;
+}
+
+/* credit page */
+.wdimg{
+  height:500px;
+  float: left;
+}
+
+
+
+
+/* table */
+
+table {
+  border: 2px solid forestgreen;
+  width: 1700px;
+  height: 200px;
+  background-color: rgb(102, 102, 243);
+}
+tbody .trow{
+  background-color: rgb(148, 168, 168);
+  color:rgb(253, 15, 94)
+}
+tbody td{
+  text-align: center;
+  font-size: 30px;
+  border-width: 1px;
+  border-color: black;
+  border-style: solid;
+  
+}
+
+/* deposit */
+.depo{
+  background-color: green;
+  color:white   
+}
+/* credit */
+.credit{
+  background-color: brown;
+  color: aliceblue;
+}
+
+/* router style */
+
+.route button{
+  background-color: #285b9e;
+  border: none;
+  height: 70px;
+  font-size: 30px;
+  margin-top:10px;
+  margin-left: 30px;
+  padding-left: 120px;
+}
+.route{
+  background-color: rgb(233, 58, 175);
+}
